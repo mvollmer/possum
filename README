@@ -1,0 +1,10 @@
+POSSUM
+
+Possum is an attempt at learning Python.  The idea is to replace
+Scheme in the old, unknown, and unused Gossip Simulation Environment.
+Thus, the following topics will be of interest:
+
+ - How to do a very small domain specific language;
+ - How to implement non-trivial data structures and algorithms;
+ - How to glue C++ code into Python;
+ - How to write documentation in Python land.
