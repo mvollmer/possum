@@ -19,3 +19,10 @@
 /libpossum/config.h.in
 /libpossum/stamp-h1
 /libtool
+/libpossum/.libs/
+/libpossum/engine.la
+/libpossum/engine.lo
+/libpossum/engine.o
+/libpossum/enginemodule.lo
+/libpossum/enginemodule.o
+/libpossum/libpossum.la
