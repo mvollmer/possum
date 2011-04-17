@@ -1,1 +1,1 @@
-SUBDIRS = libpossum
+SUBDIRS = possum
