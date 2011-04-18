@@ -1,1 +1,1 @@
-SUBDIRS = possum
+SUBDIRS = possum example

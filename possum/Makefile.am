@@ -1,7 +1,9 @@
-INCLUDES = -I $(PYTHON_INCLUDES)
+INCLUDES =  -I .. -I $(PYTHON_INCLUDES)
 
 lib_LTLIBRARIES = libpossum.la
-libpossum_la_SOURCES = engine.cc
+libpossum_la_SOURCES = sim.h \
+		       comp.cc \
+		       engine.cc
 
 pkgpyexec_LTLIBRARIES = engine.la
 engine_la_SOURCES = enginemodule.cc

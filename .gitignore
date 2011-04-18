@@ -27,3 +27,12 @@
 /possum/enginemodule.o
 /possum/libpossum.la
 /possum/engine.so
+/example/.deps/
+/example/.libs/
+/example/Makefile
+/example/Makefile.in
+/example/source.la
+/example/source.lo
+/example/source.o
+/possum/comp.lo
+/possum/comp.o

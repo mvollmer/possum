@@ -13,4 +13,5 @@ AC_SUBST(PYTHON_INCLUDES)
 AC_CONFIG_HEADERS(possum/config.h)
 
 AC_OUTPUT(Makefile
-          possum/Makefile)
+          possum/Makefile
+	  example/Makefile)
